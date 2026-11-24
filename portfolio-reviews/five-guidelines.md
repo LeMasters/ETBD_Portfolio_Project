@@ -1,4 +1,4 @@
-# Five Guidelines for an Undergraduate Games Portfolio
+# Prototype Guidelines for ETBD Games Portfolio (INTERNAL)
 
 A portfolio is not a storage container for your work. It is an argument about you, made out of your work. These five guidelines organize what we look for in review — and what you should look for before you send it to us.
 

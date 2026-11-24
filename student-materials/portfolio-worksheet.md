@@ -2,7 +2,7 @@
 
 22 Nov 2026 · Garrison LeMasters
 
-Worksheet version 1.3, for Alexander 0.6.6. If you copy this worksheet, keep this line so your instructor knows which version you started from (change log at the end).
+Worksheet version 1.4, for Alexander 0.6.7. If you copy this worksheet, keep this line so your instructor knows which version you started from (change log at the end).
 
 ## How to use this worksheet
 
@@ -198,6 +198,7 @@ All optional. You can leave this form as it is.
 
 | Version | Date | Change |
 | --- | --- | --- |
+| 1.4 | 24 Nov 2026 | For Alexander 0.6.7: version line only. No form changed; 0.6.7 changed how case-study Sections are laid out (on phones: heading, picture, text). |
 | 1.3 | 23 Nov 2026 | For Alexander 0.6.6: the Projects form is now Selected Work; "Project title" and "Project description" are Title and Description; Experience's Related project is Related work. The Kind appears as a label before every title. |
 | 1.2 | 22 Nov 2026 | Appearance lists Figtree and Literata (Alexander 0.6.5). Version line and this log added. |
 | 1.1 | 22 Nov 2026 | Tools Note hint rewritten: a note is general (how long, how much, what kind of work), never about one project. |

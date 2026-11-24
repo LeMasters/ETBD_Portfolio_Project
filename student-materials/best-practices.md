@@ -41,7 +41,7 @@ Game screenshots: capture at the resolution you play at, then resize down. Pick 
 
 ## Writing for the page
 
-These apply the class's *Five Guidelines for an Undergraduate Games Portfolio* to Alexander's fields.
+These apply the class's *Prototype Guidelines for ETBD Games Portfolio (INTERNAL)* to Alexander's fields.
 
 | Field (form) | Aim | Example |
 | --- | --- | --- |
