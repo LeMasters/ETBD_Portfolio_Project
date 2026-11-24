@@ -52,7 +52,7 @@ Each piece of work is one Markdown file: labelled fields at the top (title, kind
 **For faculty**
 - [Instructor setup guide](faculty/instructor-setup-guide.md): the platform's current state, setup steps, a verification checklist, troubleshooting, lessons learned, roadmap.
 
-**What students receive**
+**Example Docs That Might Come With Portfolio Setup Kit**
 - [Setup instructions](student-materials/setup-instructions.md): from copying the template to the first published page.
 - [Portfolio worksheet](student-materials/portfolio-worksheet.md): a blank worksheet to fill in before opening Pages CMS; its sections follow the eight forms (version 1.4, for Alexander 0.6.7; change log at its end).
 - [Best practices](student-materials/best-practices.md): image sizes, files, writing, testing.
