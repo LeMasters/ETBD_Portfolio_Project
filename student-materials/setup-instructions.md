@@ -58,7 +58,7 @@ Work through the forms in this order, and **delete every sample entry you don't 
 | Gallery | One entry per image: title, image, Show on home page, alt text, order, caption | Tick Show on home page for the images you want there; with none ticked, the first five appear. |
 | Experience | One entry per job, internship or assistantship: role, organization, website, location, dates, order, what you did, related work | Order 1 comes first, usually the most recent. Lead with a verb: "Designed", "Ran", "Built". |
 | Education | Degree, school, year, order, optional detail | Order 1 comes first. |
-| Tools | The software and tools you use, each with an optional note that stays general ("C#; three years"), never about one project | Say where you used it, e.g. "C#; three years". |
+| Tools | The software, languages and media you use: choose each from the Tool list (shown with its logo, or a plain icon), or type it under Other tool if it isn't listed; each with an optional note that stays general ("C#; three years"), never about one project | Say where you used it, e.g. "C#; three years". |
 | Appearance | Colour scheme, typeface for text, typeface for titles | Try each choice and look at the result. |
 | Analytics | Visitor statistics (optional), whether AI companies may train on your site, a Google Search Console code (optional) | AI training stays refused unless you switch it on. See the README for setting up statistics. |
 

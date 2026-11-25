@@ -2,7 +2,7 @@
 
 22 Nov 2026 · Garrison LeMasters
 
-Worksheet version 1.4, for Alexander 0.6.7. If you copy this worksheet, keep this line so your instructor knows which version you started from (change log at the end).
+Worksheet version 1.5, for Alexander 0.7.0. If you copy this worksheet, keep this line so your instructor knows which version you started from (change log at the end).
 
 ## How to use this worksheet
 
@@ -148,15 +148,19 @@ Degree example: "B.S., Games + Simulation (expected)". Year example: "2027" or "
 
 ## 6. Tools
 
-Software and languages you can actually use. List only what your work shows; leave it empty to hide the section.
+Software, languages and media you can actually use. List only what your work shows; leave it empty to hide the section.
 
-| Tool | Note (optional) |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Tool (from the list) | Other tool (only if not in the list) | Note (optional) |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**Tool:** choose from the list in the form; each tool appears on your site with its logo, or a plain icon. The list: 3ds Max, Ableton Live, AI tools, Aseprite, Audacity, Blender, C#, C++, Clip Studio Paint, CSS3, disguise, Figma, FMOD, GIMP, Git, GitHub, Go, Godot Engine, Houdini, HTML5, Illustrator, Inkscape, JavaScript, Jira, Krita, Lua, Maya, Miro, Notch, p5.js, Perforce, Photoshop, Procreate, Python, Rust, Swift, TouchDesigner, Traditional media, Trello, Twine, Unity, Unreal Engine, Wwise, ZBrush. Use Traditional media for drawing and painting by hand, and name the media in its note: "pen and ink, coloured pencil, acrylic on canvas".
+
+**Other tool:** only for a tool that isn't in the list, e.g. "Twine 2" or "Substance 3D Painter". It appears with a plain icon.
 
 Note (optional): one general line about the tool, such as how long, how much, or for what kind of work: "C#; three years" or "used on two team projects". Don't describe a single project here; that story belongs in the project's Sections. If you have nothing general to say, leave the note empty.
 
@@ -198,6 +202,7 @@ All optional. You can leave this form as it is.
 
 | Version | Date | Change |
 | --- | --- | --- |
+| 1.5 | 24 Nov 2026 | For Alexander 0.7.0: Tools has a Tool list (44 tools, languages and media, each shown with its logo or a plain icon) and an Other tool box; the Note hint adds the Traditional media example. |
 | 1.4 | 24 Nov 2026 | For Alexander 0.6.7: version line only. No form changed; 0.6.7 changed how case-study Sections are laid out (on phones: heading, picture, text). |
 | 1.3 | 23 Nov 2026 | For Alexander 0.6.6: the Projects form is now Selected Work; "Project title" and "Project description" are Title and Description; Experience's Related project is Related work. The Kind appears as a label before every title. |
 | 1.2 | 22 Nov 2026 | Appearance lists Figtree and Literata (Alexander 0.6.5). Version line and this log added. |

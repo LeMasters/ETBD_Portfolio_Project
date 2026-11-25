@@ -50,7 +50,7 @@ These apply the class's *Prototype Guidelines for ETBD Games Portfolio (INTERNAL
 | Caption (Selected Work) | What it is and what you did, in one line | "Puzzle game · Unity · level design, team of four" |
 | Description (Selected Work) | Role, tools, problem solved, outcome; for a case study, Sections that tell the story | "Designed four puzzle levels in Unity; reworked two after playtests showed players missed the light mechanic." |
 | What you did (Experience) | Start with a verb; one result per sentence | "Ran weekly playtests and turned notes into design changes." |
-| Note (Tools) | General only: how long, how much, what kind of work. It shows under the tool on your home page, so leave single-project details for that project's Sections | "C#; three years" or "Used on two team projects" |
+| Note (Tools) | General only: how long, how much, what kind of work. It shows under the tool on your home page, so leave single-project details for that project's Sections | "C#; three years" or "Used on two team projects"; for Traditional media, "Pen and ink, coloured pencil, acrylic on canvas" |
 
 - **Three strong projects beat ten.** Put your best and most recent first: Order 1 becomes the wide feature at the top of your home page.
 - **Every image needs words.** A visitor who has never seen your game should know what they're looking at and why it's there.
