@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Your Portfolio Site: Setup Instructions
 
 21 Nov 2026 · Garrison LeMasters

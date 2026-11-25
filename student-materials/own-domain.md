@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # How to Set Up Your Own Domain Name
 
 19 Nov 2026 · Garrison LeMasters

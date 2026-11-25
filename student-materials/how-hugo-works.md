@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # How Hugo Works: A Quick Explainer
 
 21 Nov 2026 · Garrison LeMasters

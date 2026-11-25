@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Your Portfolio, Search Engines and AI
 
 A guide for students using the Alexander portfolio template · 19 Nov 2026 · Garrison LeMasters

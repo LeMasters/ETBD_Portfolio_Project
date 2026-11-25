@@ -5,6 +5,8 @@ established: 2026-11-21 (from Garrison's instructions in the John Donne session)
 exemplar: "Personna Anne Southwell.md"
 ---
 
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Why these personas exist
 
 Fictional composite students ("real composites") for sample portfolios in the Alexander theme. Three uses:

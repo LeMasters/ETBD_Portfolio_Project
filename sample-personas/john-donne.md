@@ -6,6 +6,8 @@ created: 2026-11-22
 revised: 2026-11-23
 ---
 
+> **Caveat lector:** SOME of this content WRITTEN, EDITED, or COMPILED by Claude AI.
+
 # 0. Provenance and caveats
 
 - **Fully fictional.** Built from Garrison's brief:

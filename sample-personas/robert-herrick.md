@@ -6,6 +6,8 @@ created: 2026-11-22
 revised: 2026-11-23
 ---
 
+> **Caveat lector:** SOME of this content WRITTEN, EDITED, or COMPILED by Claude AI.
+
 # 0. Provenance and caveats
 
 Robert is fictional. His projects, job, volunteer evening, classmates, and quoted remarks were invented for this dossier. His place in the set is the student who has finished one project worth explaining and wonders whether that is enough to put a site up. He wants something he can send to a campus employer this spring.

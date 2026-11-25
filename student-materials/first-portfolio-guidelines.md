@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Guidelines for Setting Up Your First Portfolio
 
 19 Nov 2026 · Garrison LeMasters

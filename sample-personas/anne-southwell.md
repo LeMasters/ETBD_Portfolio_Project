@@ -6,6 +6,8 @@ created: 2026-11-21
 revised: 2026-11-23
 ---
 
+> **Caveat lector:** SOME of this content WRITTEN, EDITED, or COMPILED by Claude AI.
+
 # 0. Provenance and caveats
 
 - **Editorial provenance.** Earlier drafts used generic patterns from student and professional profiles. The student, work history, and project results in this dossier are fictional. See §10.

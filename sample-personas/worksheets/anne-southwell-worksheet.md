@@ -1,3 +1,5 @@
+> **Caveat lector:** SOME of this content WRITTEN, EDITED, or COMPILED by Claude AI.
+
 # Portfolio Worksheet: Plan Your Content Before Pages CMS – AnneSouthwell
 
 23 Nov 2026 · Garrison LeMasters (filled by Claude from the Anne Southwell dossier)

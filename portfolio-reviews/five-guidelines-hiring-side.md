@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Five More Guidelines: The Hiring-Side View
 
 A companion set, drawn from what studios, recruiters, and art directors say publicly about how they actually review junior portfolios. These are deliberately *non-overlapping* with the first five: those concern what a portfolio must communicate, these concern how portfolios get filtered.

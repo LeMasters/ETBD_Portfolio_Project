@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Student portfolio platform: instructor setup guide
 
 > **About this copy.** This is the faculty copy of the instructor guide, kept in the `ETBD_Portfolio_Project` repository. Links in section H point to the Markdown copies of the student guides in `student-materials/`; the editable originals are Claude Docs. References to `CLAUDE-NOTES.md`, the fill runbook and `Alexander/CLAUDE.md` are to Garrison's working notes, which are not in this repository.

@@ -1,3 +1,5 @@
+> **Caveat lector:** Mostly written by Claude AI.
+
 # Portfolio Worksheet: Plan Your Content Before Pages CMS
 
 22 Nov 2026 · Garrison LeMasters
